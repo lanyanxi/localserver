@@ -1,0 +1,9 @@
+<!--pages/my/my.wxml-->
+<view class="container">
+  <view class="images">
+    <image src="../assets/images/banner_my.jpg" class="banner"></image>
+  </view>
+  <image src="../assets/images/myinfo.png" class="banner" class="img_myinfo"></image>
+  <text class="text_info text_colorblue">作者：蓝颜夕</text>
+    <text class="text_info text_colorblue">说明：由于学过前端和VUE(刚入门)，上网百度了一番，发现&@#!%小程序居然也可以像VUE那样循环数组,所以九宫格的内容是循环出来的(ಥ_ಥ),然后呢菜单图标来源于 阿里巴巴图标库</text>
+</view>

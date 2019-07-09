@@ -1,0 +1,30 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/my/my",
+    "README.md"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "本地服务",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "tabbar/index.png",
+        "selectedIconPath": "tabbar/index.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/my/my",
+        "iconPath": "tabbar/my.png",
+        "selectedIconPath": "tabbar/my.png",
+        "text": "我的"
+      }
+    ]
+  },
+  "sitemapLocation": "sitemap.json"
+}

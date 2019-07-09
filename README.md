@@ -1,10 +1,10 @@
 #   本地服务(localserver)
 
 ## 项目信息
-Name:&nbsp本地服务(localserver)  
-Version:&nbspv1.0  
-Author:&nbsp蓝颜夕  
-GitHub:&nbsphttps://github.com/lanyanxi
+Name: 本地服务(localserver)  
+Version: 1.0  
+Author: 蓝颜夕  
+GitHub: &nbsp https://github.com/lanyanxi
 
 ## 目录结构描述
 ├── pages                       // 页面文件夹  

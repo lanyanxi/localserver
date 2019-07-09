@@ -8,9 +8,9 @@ GitHub:&nbsphttps://github.com/lanyanxi
 
 ## 目录结构描述
 ├── pages                       // 页面文件夹<br>
-│   ├── assets                  // 静态资源<br>
-│   ├── index                   // 首页页面<br>
-│   └── my                      // 我的页面<br>
+│&nbsp&nbsp&nbsp├── assets                  // 静态资源<br>
+│&nbsp&nbsp&nbsp├── index                   // 首页页面<br>
+│&nbsp&nbsp&nbsp└── my                      // 我的页面<br>
 ├── tabbar                      // tabBar图标<br>
 ├── utils                       // 共用程序逻辑库<br>
 ├── Readme.md                   // HLEP<br>

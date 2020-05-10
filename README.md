@@ -22,5 +22,5 @@ GitHub: https://github.com/lanyanxi
 ```
 
 ## 其他说明
-1.个人小(ಥ_ಥ)；  
+1.个人小DEMO(ಥ_ಥ)；  
 2.菜单图标来源于 阿里巴巴图标库。
